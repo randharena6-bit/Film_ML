@@ -1,0 +1,9 @@
+text
+pandas
+numpy
+scikit-learn
+streamlit
+fastapi
+uvicorn[standard]
+pydantic
+pytest
